@@ -11,8 +11,8 @@
 ## 공략한 디자인 패턴
 
 - [ ] 1. 옵저버(Observer)
-- [ x ] 2. 팩토리 메서드(Factory Method)
-- [ x ] 3. 데코레이터(Decorator)
+- [x] 2. 팩토리 메서드(Factory Method)
+- [x] 3. 데코레이터(Decorator)
 - [ ] 4. 전략(Strategy)
 - [ ] 5. 커맨드(Command)
 - [ ] 6. 템플릿 메서드(Template Method)
